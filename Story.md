@@ -53,3 +53,7 @@ A critical prod issue occured. Everyone looked to Steve for the solution. Steve 
 Steve found the issue. It was a simple mistake.
 
 This line is added by Lei.
+
+# Chapter 7: Chase 
+This line was added by Chase.
+Manlilibre si Basti mamamya wahooooo!!
