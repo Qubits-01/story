@@ -27,7 +27,7 @@ Once upon a time, in the office of a software developemt firm, there was a progr
 One day, he was invited to join a key project.
 
 # Chapter 3: The Promotion
-The boss decided to have a talk with him.
+The boss decided to have a talk with him. "Steve, it's time you became a Team Leader."
 (some text here)
 
 afd
