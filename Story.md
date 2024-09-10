@@ -47,3 +47,7 @@ Steve was now a team leader. It was harder than he thought.
 # Chapter 5: Prod Issue
 
 A critical prod issue occured. Everyone looked to Steve for the solution.
+
+# Chapter 6: Resolution
+
+Steve found the issue. It was a simple mistake.
