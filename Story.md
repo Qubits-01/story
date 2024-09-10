@@ -57,3 +57,7 @@ This line is added by Lei.
 # Chapter 7: Chase 
 This line was added by Chase.
 Manlilibre si Basti mamamya wahooooo!!
+
+
+# Chapter 8: Basti
+GUSTO KO NA UMUWI SANA MATAPOS NA TAYO!!!!
