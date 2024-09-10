@@ -51,3 +51,5 @@ A critical prod issue occured. Everyone looked to Steve for the solution. Steve 
 # Chapter 6: Resolution
 
 Steve found the issue. It was a simple mistake.
+
+This line is added by Lei.
