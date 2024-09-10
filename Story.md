@@ -61,3 +61,5 @@ Manlilibre si Basti mamamya wahooooo!!
 
 # Chapter 8: Basti
 GUSTO KO NA UMUWI SANA MATAPOS NA TAYO!!!!
+
+Maya pls fund our team gala sa shangri-la hehehe
